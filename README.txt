@@ -1,1 +1,0 @@
-這是 MyUsedCar 正式版原始碼的佔位示範。完整版由 React + Firebase 組成，包含登入與圖片上傳功能。
